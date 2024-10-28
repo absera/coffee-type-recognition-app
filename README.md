@@ -1,6 +1,6 @@
 # Coffee Analyzer
 
-A Flutter application for identifying coffee bean types and diagnosing potential issues by analyzing photos. This app uses machine learning and TensorFlow Lite for on-device image classification to recognize and categorize coffee beans based on the provided image.
+A Flutter application for identifying coffee bean types and diagnosing potential issues by analyzing photos. Developed in my internship for Artificial Intelligence Institute in Summer 2023. This app uses machine learning and TensorFlow Lite for on-device image classification to recognize and categorize coffee beans based on the provided image.
 
 ## Features
 
